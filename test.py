@@ -1,1 +1,1 @@
- echo "Hello World"
+liste=[1,2,3,4]
