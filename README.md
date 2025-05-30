@@ -1,4 +1,4 @@
 # TPGitVdE2025
-Tp Git du vde \n
-Modification mactar
-Kennet est gentil kmm
+Tp Git du vde
+
+Comme Mactar a écrit des trucs, moi j'écris ceci juste pour créer un conflit
